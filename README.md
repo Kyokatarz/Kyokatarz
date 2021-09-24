@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Kyokatarz
-- 🏢 Full-stack Developer
-- Currently based in Helsinki, Finland 🇫🇮
-- 📫 Email me at: minhgiang.tran97@gmail.com
 
 ```
              ________________________________________________
