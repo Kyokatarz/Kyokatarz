@@ -8,7 +8,7 @@
            |    _________________________________________     |
            |   |                                         |    |
            |   |  >GIANG_TRAN                            |    |
-           |   |  >FULL_STACK_INSTRUCTOR @ INTEGRIFY     |    |
+           |   |  >SOFTWARE_ENGINEER @ TVTOOLS OY        |    |
            |   |  >HELSINKI_FINLAND                      |    |
            |   |  >MINHGIANG.TRAN97@GMAIL.COM            |    |
            |   |                                         |    |
