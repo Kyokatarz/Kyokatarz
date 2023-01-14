@@ -1,7 +1,6 @@
 ### About me ✏️
 ---
 ```
-Working on GitLab for my company so will be inactive here :) Will comeback stronger 💪
              ________________________________________________
             /                                                \
            |    _________________________________________     |
